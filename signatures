@@ -1,0 +1,73 @@
+\x89PNG\r\n\x1a\n                                                   | PNG       | PNG Image
+\xff\xd8\xff                                                        | JPEG      | JPEG Image
+GIF87a                                                              | GIF       | GIF Image (87a)
+GIF89a                                                              | GIF       | GIF Image (89a)
+BM                                                                  | BMP       | Bitmap Image
+\x00\x00\x01\x00                                                    | ICO       | Icon File
+II*\x00                                                             | TIFF      | TIFF Image (Little Endian)
+MM\x00*                                                             | TIFF      | TIFF Image (Big Endian)
+<svg                                                                | SVG       | Scalable Vector Graphics
+\x0a\x05\x01\x01                                                    | PCX       | PCX Image
+\x00\x00\x00\x0cJXL \x0d\x0a\x87\x0a                                | JXL       | JPEG XL Image
+%PDF                                                                | PDF       | PDF Document
+\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1                                    | OLE       | Microsoft Compound File
+{\x5c\x72\x74\x66                                                   | RTF       | Rich Text Format
+<?xml                                                               | XML       | XML Document
+<!DOCTYPE                                                           | HTML      | HTML Document
+<html                                                               | HTML      | HTML Document
+%!PS-Adobe                                                          | PS        | PostScript Document
+ITSF                                                                | CHM       | Compiled HTML Help
+PK\x03\x04\x14\x00\x08\x00                                          | APK       | Android Package
+PK\x03\x04\x14\x00\x06\x00                                          | DOCX      | Office Open XML Document
+PK\x03\x04                                                          | ZIP       | ZIP Archive
+PK\x05\x06                                                          | ZIP       | Empty ZIP Archive
+PK\x07\x08                                                          | ZIP       | Spanned ZIP Archive
+Rar!\x1a\x07                                                        | RAR       | RAR Archive
+\x1f\x8b\x08\x08                                                    | GZ        | Gzip Archive
+\x1f\x8b\x08                                                        | GZ        | Gzip Compressed
+\x1f\x8b                                                            | GZ        | GZIP Archive
+7z\xbc\xaf\x27\x1c                                                  | 7Z        | 7-Zip Archive
+BZh                                                                 | BZ2       | Bzip2 Archive
+\x42\x5a\x68                                                        | BZ2       | Bzip2 Compressed
+\x1f\x9d                                                            | Z         | LZW Compressed Archive
+\x1f\xa0                                                            | Z         | LZH Compressed Archive
+xar!                                                                | XAR       | XAR Archive
+!<arch>                                                             | AR        | Unix Archive
+\xfd7zXZ\x00                                                        | XZ        | XZ Archive
+MZ                                                                  | EXE       | Windows Executable
+\x7fELF                                                             | ELF       | Linux/Unix Executable
+\xfe\xed\xfa\xce                                                    | MACHO     | MacOS Executable (32-bit)
+\xfe\xed\xfa\xcf                                                    | MACHO     | MacOS Executable (64-bit)
+\xca\xfe\xba\xbe                                                    | MACHO     | MacOS Universal Binary
+\xcf\xfa\xed\xfe                                                    | MACHO     | MacOS Executable (32-bit reverse)
+\xce\xfa\xed\xfe                                                    | MACHO     | MacOS Executable (64-bit reverse)
+dex\n                                                               | DEX       | Android Dalvik Executable
+\x00\x00\x00\x20ftypisom                                            | MP4       | MP4 Video (isom)
+\x00\x00\x00\x18ftypisom                                            | MP4       | MP4 Video (isom)
+\x00\x00\x00\x18ftypmp4                                             | MP4       | MP4 Video
+\x00\x00\x00\x20ftypmp4                                             | MP4       | MP4 Video
+ftyp                                                                | MP4       | MP4 Video
+\x1aE\xdf\xa3                                                       | MKV       | Matroska Video
+ID3                                                                 | MP3       | MP3 Audio
+\xff\xfb                                                            | MP3       | MP3 Audio (non-ID3)
+OggS                                                                | OGG       | Ogg Media File
+fLaC                                                                | FLAC      | FLAC Audio
+\x4d\x54\x68\x64                                                    | MIDI      | MIDI Audio
+FORM                                                                | AIFF      | AIFF Audio
+RIFF                                                                | RIFF      | Resource Interchange File Format
+KDMV                                                                | VMDK      | VMware Virtual Disk
+<<<oracle                                                           | VDI       | VirtualBox Disk Image
+connectix                                                           | VHD       | Virtual Hard Disk
+vhdx                                                                | VHDX      | Virtual Hard Disk v2
+\x00\x01\x00\x00                                                    | TTF       | TrueType Font
+OTTO                                                                | OTF       | OpenType Font
+wOFF                                                                | WOFF      | Web Open Font Format
+wOF2                                                                | WOFF2     | Web Open Font Format 2
+SQLite format 3                                                     | SQLITE    | SQLite Database
+\x53\x51\x4c\x69\x74\x65\x20\x66\x6f\x72\x6d\x61\x74\x20\x33\x00    | SQLITE    | SQLite Database v3
+\x00\x01\x00\x00Standard Jet DB                                     | MDB       | Microsoft Access Database
+\x00\x01\x00\x00Standard ACE DB                                     | ACCDB     | Microsoft Access 2007+ Database
+#!/                                                                 | SCRIPT    | Shell Script or Executable Text
+#!                                                                  | SCRIPT    | Script with Shebang
+From                                                                | EML       | Email Message
+Cr24                                                                | CRX       | Chrome Extension
