@@ -1,0 +1,28 @@
+:root {
+    --primary: #89b4fa;
+    --secondary: #f9e2af;
+
+    /* Backgrounds */
+    --bg-header: #11111b;
+    --bg-canvas: #1e1e2e; 
+    --bg-card: #313244; 
+    --bg-surface: #313244;
+
+    --bg-upload: #1e1e2e; 
+    --bg-upload-hover: #313244;
+    --bg-hover-glass: rgba(137, 180, 250, 0.1);
+
+    /* Text */
+    --text-main: #cdd6f4;    
+    --text-muted: #a6adc8;  
+    --text-muted-light: #bac2de; 
+
+    /* Borders */
+    --border-light: #45475a;
+    --border-dark: #585b70; 
+    --border-dashed: #6c7086; 
+
+    /* Logic */
+    --shadow: 0 4px 10px -1px rgba(0, 0, 0, 0);
+    --menu-width: 20vw;
+}
