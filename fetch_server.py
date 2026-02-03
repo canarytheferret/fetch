@@ -9,7 +9,7 @@ import fetch_analysis
 import fetch_virustotal
 
 UPLOAD_FOLDER = 'uploads'
-DATABASE_FILE = 'database.db'
+DATABASE_FILE = 'database.db.sqlite3'
 
 server = flask.Flask(__name__)
 server.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
