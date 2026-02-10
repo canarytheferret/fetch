@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             const formData = new FormData(uploadForm);
 
-            fetch('/check', {
+            fetch('/dashboard/scan', {
                 method: 'POST',
                 body: formData
             })
