@@ -341,16 +341,3 @@ th { background: var(--bg-surface); font-weight: 600; }
     color: var(--primary);
     text-decoration: underline;
 }
-
-@media (max-width: 768px) {
-    .main-wrapper { padding: 1rem; }
-    .navbar { gap: 1rem; } 
-    body.menu-open { padding-right: 0; }
-    .footer-content { grid-template-columns: 1fr; gap: 2rem; text-align: center; }
-    .footer-section.links { text-align: center; align-items: center; }
-    .footer-section { padding: 1rem; }
-}
-
-@media (max-width: 480px) {
-    .nav-links { width: 80%; }
-}
